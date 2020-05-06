@@ -21,9 +21,9 @@ Check out [Google's field reference](https://developers.google.com/analytics/dev
 </br></br></br>
 ## Example Usage
 Let's say your developers implemented tracking with differing product lists that actually should be the same:
-The Hit Payloads might look like the following:
-https://www.google-analytics.com/collect?......&pal=Recommended%20Products....
-https://www.google-analytics.com/collect?......&pal=recommended%20products.....
+The Hit Payloads might look like the following:</br>
+https://www.google-analytics.com/collect?......&pal=Recommended%20Products.....</br>
+https://www.google-analytics.com/collect?......&pal=recommended%20products.....</br>
 </br></br>
 In order to correct this issue use the CustomTask and set: </br>
 | Variable | Value |
