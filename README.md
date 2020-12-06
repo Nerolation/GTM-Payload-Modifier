@@ -35,4 +35,4 @@ In order to correct this issue use the CustomTask and set: </br>
 
 
 
-Check out my [medium article](https://medium.com/@toni_w/hash-to-ethereum-f554fee4d055) or my [personal website](https://toniwahrstaetter.com/) for further information
+Check out my [personal website](https://toniwahrstaetter.com/) for further information
